@@ -15,3 +15,9 @@ I read the terms and conditions.
 ```sh
 node main.ts
 ```
+
+## Why this lie
+
+It is the only lie everyone tells and nobody believes, including the listener —
+they told the same one this morning. Short, five words, and instantly
+verifiable as false, which is exactly what makes it shameless.

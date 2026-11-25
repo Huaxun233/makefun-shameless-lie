@@ -1,4 +1,4 @@
-// Print the lie stored beside this program.
+// The lie, printed. Clicked "agree" without reading? This is your line.
 import { readFileSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
